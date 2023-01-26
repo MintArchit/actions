@@ -10,3 +10,12 @@ echo "hello"
 echo "world"
 
 echo "!"
+
+hello() 
+{
+	printf "hello\n"
+}
+
+hello
+hello
+hello
