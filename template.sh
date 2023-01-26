@@ -16,6 +16,3 @@ hello()
 	printf "hello\n"
 }
 
-hello
-hello
-hello
