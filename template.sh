@@ -4,3 +4,5 @@
 # version:	1.0
 
 printf "wow"
+
+echo "hello"
