@@ -5,7 +5,7 @@
 
 hello() 
 {
-	printf "hello world!\n"
+	printf "Hello World!\n"
 }
 
 
