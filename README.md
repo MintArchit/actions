@@ -6,8 +6,8 @@ actions files have the yml extension
 
 ### official github actions
 
-[official action using github api creating release + tag ! archived - unmaintained !](https://github.com/actions/create-release)
+[creating releases + tags via github api ! archived - unmaintained !](https://github.com/actions/create-release)
 
 ### user created actions
 
-[action which implements simple auto-commits](https://github.com/PaulHatch/semantic-version)
+[semantic version](https://github.com/PaulHatch/semantic-version) implements simple auto-commits
