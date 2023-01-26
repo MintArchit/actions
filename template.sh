@@ -5,9 +5,7 @@
 
 printf "wow"
 
-echo "hello"
-
-echo "world"
+echo "hello world!"
 
 echo "!"
 
@@ -15,4 +13,6 @@ hello()
 {
 	printf "hello\n"
 }
+
+
 
